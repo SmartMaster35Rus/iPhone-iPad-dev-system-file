@@ -1,6 +1,10 @@
 # Модификация системных строк iPad 2,2 (A1396)
 ### Технический отчет об изменении системного уведомления
 
+![Logo](pic.jpg) <!-- *(Добавьте логотип проекта, если есть)* -->
+
+[![Status](https://github-readme-stats.vercel.app/api?username=SmartMaster35Rus&count_private=true&show_icons=true)](https://github.com/SmartMaster35Rus)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/SmartMaster35Rus/iOS-String-Modification)
 ![Status](https://img.shields.io/badge/status-completed-success)
 

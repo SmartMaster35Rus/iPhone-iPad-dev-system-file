@@ -41,22 +41,31 @@
 
 ### 3. Внесение изменений
 ```diff
-- "No_SIM | Нет Sim-карты"
+- "NO_SIM | Нет Sim-карты"
 + "No_SIM | iPad Wi-Fi" // Имитация iPad Wi-Fi версии!
+- "SEARCHING | Searching"
++ "SEARCHING | iPad Wi-Fi" // Имитация iPad Wi-Fi версии!
 ```
 ```diff
 - "No_SIM | Нет Sim-карты"
 + "No_SIM | iPad" // Имитация iPad Wi-Fi версии!
+- "SEARCHING | Searching"
++ "SEARCHING | iPad" // Имитация iPad Wi-Fi версии!
+
 ```
 
 ```diff
 - "No_SIM | Нет Sim-карты"
-+ "No_SIM | ●●●●● T•Mobile" //( Имитация симкарты // полезно для устрйоств с блокирвокой оператора либо  Chimaera Device Policy )
++ "No_SIM | ●●●●● T•Mobile" //( Имитация симкарты // полезно для устройств с блокирвокой оператора либо  Chimaera Device Policy )
+- "SEARCHING | Searching"
++ "SEARCHING | ●●●●● T•Mobile" 
 ```
 
 ```diff
 - "No_SIM | Нет Sim-карты" 
-+ "No_SIM | ●●●○○ AT&T " ( Имитация симкарты // полезно для устрйоств с блокирвокой оператора либо  Chimaera Device Policy )
++ "No_SIM | ●●●○○ AT&T " ( Имитация симкарты // полезно для устройств с блокирвокой оператора либо  Chimaera Device Policy )
+- "SEARCHING | Searching"
++ "SEARCHING | ●●●○○ AT&T" 
 ```
 
 
